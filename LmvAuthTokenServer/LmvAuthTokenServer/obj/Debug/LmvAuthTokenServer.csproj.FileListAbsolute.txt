@@ -1,0 +1,17 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\LmvAuthTokenServer.dll.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\LmvAuthTokenServer.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\LmvAuthTokenServer.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\Newtonsoft.Json.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Net.Http.Formatting.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Web.Http.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Web.Http.WebHost.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\Newtonsoft.Json.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Net.Http.Formatting.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Web.Http.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Web.Http.WebHost.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\obj\Debug\LmvAuthTokenServer.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\obj\Debug\LmvAuthTokenServer.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\obj\Debug\LmvAuthTokenServer.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Web.Cors.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Web.Http.Cors.dll
+C:\Users\chris\Documents\Visual Studio 2013\Projects\LmvAuthTokenServer\LmvAuthTokenServer\bin\System.Web.Http.Cors.xml

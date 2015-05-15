@@ -1,0 +1,6 @@
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\bin\LmvAppServer.dll.config
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\bin\LmvAppServer.dll
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\bin\LmvAppServer.pdb
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.dll
+c:\users\chris\documents\visual studio 2013\Projects\LmvAppServer\LmvAppServer\obj\Debug\LmvAppServer.pdb
